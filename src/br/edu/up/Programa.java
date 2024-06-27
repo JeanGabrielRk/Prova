@@ -8,6 +8,7 @@ import br.edu.up.telas.Tela;
 import java.util.List;
 
 public class Programa {
+    
     public static void main(String[] args) {
         String caminhoDoArquivoAlunos = "alunos.csv";
         String caminhoDoArquivoResumo = "src/br/edu/up/resumo.csv";
